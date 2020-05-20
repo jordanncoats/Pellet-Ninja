@@ -1,7 +1,5 @@
 
 ![alt text](https://raw.githubusercontent.com/jordanncoats/Pellet-Ninja/master/img/logo.png "Pellet Ninja")
-
-# Pellet Ninja
 #### Version 0.5
 #### Prepared by Jordan Coats for CSC305
 
